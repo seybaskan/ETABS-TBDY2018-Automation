@@ -1,4 +1,4 @@
-# ETABS Base Shear Scaling Automation (TBDY 2018) 🏗️🐍
+# ETABS Base Shear Scaling Automation (TBDY 2018)
 
 This project automates the **Base Shear Scaling** checks required by the Turkish Building Earthquake Code (TBDY 2018, Section 4.8.4) using Python and the ETABS API.
 
